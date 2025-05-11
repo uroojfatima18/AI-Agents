@@ -1,7 +1,7 @@
  # Multi-Agent AI Assistant (Panacloud Assistant)
 
 
- API Key Setup
+# API Key Setup
 
  Uses the GEMINI_API_KEY (stored in Google Colab's userdata) to access Gemini-powered models via the OpenAI-compatible API.
 
@@ -19,20 +19,20 @@
 
 # 🔧 Tools & Handoffs
 
-**  AI Agent uses Backend & DevOps as tools. **
-**  Panacloud Assistant delegates queries to: **
-**  Web Development Tool **
-**  App Development Tool **
-**  AI Agent Tool ** 
+**AI Agent uses Backend & DevOps as tools.**
+**Panacloud Assistant delegates queries to.**
+**Web Development Tool**
+**App Development Tool**
+**AI Agent Tool** 
 
 
 
 # How It Works
 
-** Initializes agents with roles and tool-based capabilities. ** 
-** Panacloud Assistant receives the user input. ** 
-** It automatically routes the query to the most appropriate assistant/tool. ** 
-** Returns the final answer and the agent used. ** 
+**Initializes agents with roles and tool-based capabilities.** 
+**Panacloud Assistant receives the user input.** 
+**It automatically routes the query to the most appropriate assistant/tool.** 
+**Returns the final answer and the agent used.** 
 
 
 
