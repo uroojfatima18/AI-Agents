@@ -20,8 +20,8 @@
 
 # 🔧 Tools & Handoffs
 
-**  AI Agent uses Backend & DevOps as tools.**
-**  Panacloud Assistant delegates queries to:**
+**  AI Agent uses Backend & DevOps as tools. **
+**  Panacloud Assistant delegates queries to: **
 **  Web Development Tool **
 **  App Development Tool **
 **  AI Agent Tool ** 
@@ -30,7 +30,7 @@
 
 # How It Works
 
-** Initializes agents with roles and tool-based capabilities.** 
+** Initializes agents with roles and tool-based capabilities. ** 
 ** Panacloud Assistant receives the user input. ** 
 ** It automatically routes the query to the most appropriate assistant/tool. ** 
 ** Returns the final answer and the agent used. ** 
