@@ -1,4 +1,4 @@
- Multi-Agent AI Assistant (Panacloud Assistant)
+ # Multi-Agent AI Assistant (Panacloud Assistant)
 
 
  API Key Setup
@@ -7,7 +7,7 @@
 
 
 
-Agents Defined
+# Agents Defined
 
 Web Development Assistant
 App Development Assistant
@@ -18,7 +18,7 @@ Panacloud Assistant (main agent)
 
 
 
-🔧 Tools & Handoffs
+# 🔧 Tools & Handoffs
 
 AI Agent uses Backend & DevOps as tools.
 Panacloud Assistant delegates queries to:
@@ -28,7 +28,7 @@ AI Agent Tool
 
 
 
-How It Works
+# How It Works
 
 Initializes agents with roles and tool-based capabilities.
 Panacloud Assistant receives the user input.
@@ -37,8 +37,9 @@ Returns the final answer and the agent used.
 
 
 
-Contributing
+# Contributing
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Contributions are always welcome!
+
 
 regards Urooj Fatima
