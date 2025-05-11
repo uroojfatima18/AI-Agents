@@ -9,11 +9,11 @@
 
 # Agents Defined
 
-Web Development Assistant
-App Development Assistant
-Backend Developer Assistant
-DevOps Developer Assistant
-AI Agent (uses Backend and DevOps as tools)
+Web Development Assistant \n
+App Development Assistant \n
+Backend Developer Assistant \n 
+DevOps Developer Assistant \n
+AI Agent (uses Backend and DevOps as tools) \n
 Panacloud Assistant (main agent)
 
 
