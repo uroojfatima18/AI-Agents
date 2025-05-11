@@ -9,31 +9,31 @@
 
 # Agents Defined
 
-Web Development Assistant \n
-App Development Assistant \n
-Backend Developer Assistant \n 
-DevOps Developer Assistant \n
-AI Agent (uses Backend and DevOps as tools) \n
-Panacloud Assistant (main agent)
+**  Web Development Assistant **  
+**  App Development Assistant **  
+**  Backend Developer Assistant \n 
+**  DevOps Developer Assistant **  
+**  AI Agent **   (uses Backend and DevOps as tools) 
+**  Panacloud Assistant  **  (main agent)
 
 
 
 # 🔧 Tools & Handoffs
 
-AI Agent uses Backend & DevOps as tools.
-Panacloud Assistant delegates queries to:
-Web Development Tool
-App Development Tool
-AI Agent Tool
+**  AI Agent uses Backend & DevOps as tools.**
+**  Panacloud Assistant delegates queries to:**
+**  Web Development Tool **
+**  App Development Tool **
+**  AI Agent Tool ** 
 
 
 
 # How It Works
 
-Initializes agents with roles and tool-based capabilities.
-Panacloud Assistant receives the user input.
-It automatically routes the query to the most appropriate assistant/tool.
-Returns the final answer and the agent used.
+** Initializes agents with roles and tool-based capabilities.** 
+** Panacloud Assistant receives the user input. ** 
+** It automatically routes the query to the most appropriate assistant/tool. ** 
+** Returns the final answer and the agent used. ** 
 
 
 
