@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# Mypy cache
+.mypycache/
+
+# Custom or editor-specific files
+.chanlit/
+.chainlit/translations/
+.files/
