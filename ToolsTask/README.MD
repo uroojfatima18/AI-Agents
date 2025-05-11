@@ -6,15 +6,14 @@
  Uses the GEMINI_API_KEY (stored in Google Colab's userdata) to access Gemini-powered models via the OpenAI-compatible API.
 
 
+##  Agents Defined
 
-# Agents Defined
-
-**  Web Development Assistant **  
-**  App Development Assistant **  
-**  Backend Developer Assistant \n 
-**  DevOps Developer Assistant **  
-**  AI Agent **   (uses Backend and DevOps as tools) 
-**  Panacloud Assistant  **  (main agent)
+- **Web Development Assistant**
+- **App Development Assistant**
+- **Backend Developer Assistant**
+- **DevOps Developer Assistant**
+- **AI Agent** (uses Backend and DevOps as tools)
+- **Panacloud Assistant** (main agent)
 
 
 
